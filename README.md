@@ -102,7 +102,7 @@ Users are encouraged to verify annotation layers depending on their research pur
 
 The dataset is available on Zenodo:
 
-https://doi.org/XXXX
+https://doi.org/10.5281/zenodo.19327553
 
 ---
 
