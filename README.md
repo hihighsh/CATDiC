@@ -19,7 +19,9 @@ The corpus includes:
 - ELAN annotation files (.eaf)
 - Metadata files
 
+Metadata files are included in the Zenodo release.
 However, Turkmen data is excluded due to consent restrictions.
+
 This pilot release provides a structured and reusable dataset for discourse analysis and comparative research on Central Asian Turkic languages.
 
 ---
