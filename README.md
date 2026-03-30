@@ -127,7 +127,7 @@ We thank all participants who contributed to the recordings.
 
 ## Version
 
-This is CATDiC version 1.1 (pilot release).  
+This is CATDiC version 1.2 (pilot release).  
 
 Future versions may include:
 
