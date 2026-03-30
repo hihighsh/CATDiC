@@ -66,23 +66,22 @@ The corpus includes structured metadata:
 - `metadata/speakers.csv`  
   Anonymized speaker information
 
----
-
 ## File Structure
+
+```
 corpus/
 ├── README.md
 ├── LICENSE
 ├── metadata/
-│ ├── metadata.csv
-│ └── speakers.csv
+│   ├── metadata.csv
+│   └── speakers.csv
 ├── data/
-│ ├── uzbek/
-│ ├── kazakh/
-│ ├── turkmen/
-│ ├── kyrgyz/
-│ └── uyghur/
-
-
+│   ├── uzbek/
+│   ├── kazakh/
+│   ├── turkmen/
+│   ├── kyrgyz/
+│   └── uyghur/
+```
 ---
 
 ## Usage
