@@ -19,6 +19,7 @@ The corpus includes:
 - ELAN annotation files (.eaf)
 - Metadata files
 
+However, Turkmen data is excluded due to consent restrictions.
 This pilot release provides a structured and reusable dataset for discourse analysis and comparative research on Central Asian Turkic languages.
 
 ---
@@ -97,13 +98,11 @@ Users are encouraged to verify annotation layers depending on their research pur
 
 ---
 
-## Citation
+## Data Access
 
-If you use CATDiC, please cite it as follows:
-Author (Year). Central Asian Turkic Discourse Corpus (CATDiC). Zenodo. DOI: XXXXX
+The dataset is available on Zenodo:
 
-
-(The DOI will be assigned upon release.)
+https://doi.org/XXXX
 
 ---
 
@@ -128,7 +127,7 @@ We thank all participants who contributed to the recordings.
 
 ## Version
 
-This is CATDiC version 1.0 (pilot release).  
+This is CATDiC version 1.1 (pilot release).  
 
 Future versions may include:
 
